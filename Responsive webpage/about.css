@@ -1,0 +1,41 @@
+header{
+    background-color: aquamarine;
+    padding: 20px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav h3{
+    font-size: 22px;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+nav ul li{
+    margin: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: gray;
+}
+.container{
+    padding: 40px;
+    display: flex;
+    align-items: center;
+}
+img{
+    margin-right: 20px;
+    display: block;
+    width: 500px;
+    height: auto;
+}
+footer{
+    background-color: aquamarine;
+    padding: 20px;
+    text-align: center;
+}
