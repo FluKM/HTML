@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>CODERS_HUB/CONTACTS</title>
+        <link rel="stylesheet" href="contact.css">
+    </head>
+    <body>
+        <header>
+            <nav>
+                <h3>CODERS_HUB</h3>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="product.html">Products</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        <div class="contact-card" onclick="flipCard(this)">
+            <div class="flipper">
+              <div class="front">
+                <img src="image/profile1.jpg" alt="Profile Picture 1">
+                <h2>Tony Stark</h2>
+                <p>CEO of CODERS_HUB</p>
+              </div>
+              <div class="back">
+                <h2>Contact Information</h2>
+                <p>Email: tony@stark.com</p>
+              </div>
+            </div>
+          </div>
+          <div class="contact-card" onclick="flipCard(this)">
+            <div class="flipper">
+              <div class="front">
+                <img src="image/profile2.jpg" alt="Profile Picture 2">
+                <h2>Steve Rogers</h2>
+                <p>Web Developer</p>
+              </div>
+              <div class="back">
+                <h2>Contact Information</h2>
+                <p>Email: steve@rogers.com</p>
+              </div>
+            </div>
+          </div> 
+          <div class="contact-card" onclick="flipCard(this)">
+            <div class="flipper">
+              <div class="front">
+                <img src="image/profile3.png" alt="Profile Picture 2">
+                <h2>Nick Fury</h2>
+                <p>Sales Executive</p>
+              </div>
+              <div class="back">
+                <h2>Contact Information</h2>
+                <p>Email: nick@fury.com</p>
+              </div>
+            </div>
+          </div>          
+        <script>
+            function flipCard(card) {
+            card.classList.toggle('flipped');
+            }
+        </script>
+    </body>
+</html>
