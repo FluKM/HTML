@@ -2,6 +2,11 @@ header{
     background-color: aquamarine;
     padding: 20px;
 }
+body {
+    background-image: url('./image/bg.png'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+}
 nav{
     display: flex;
     justify-content: space-between;
@@ -26,6 +31,8 @@ nav ul li a{
 .container{
     padding: 40px;
     display: flex;
+    height: 356px;
+    width: auto;
     align-items: center;
 }
 img{

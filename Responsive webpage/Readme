@@ -1,15 +1,19 @@
-This is an E-commerce website for a Company called Coders-Hub
+Responsive Product Selling Company Website
 
-Website Contains:
+In this video and repository, we are creating a website for a Product based company.
 
-- 1. Index.html and Index.css
-	This contains the main page and CSS program and responsive navigation bar, with each link guiding to the other html codes and 	brief information of the company.
+The website consists of 4 Parts;
+
+1. Index.html and Index.css
+	This contains the main page and CSS program and responsive 	navigation bar, with each link guiding to the other html codes and 	brief information of the company.
 	
-- 2. About.html and About.css
+2. About.html and About.css
 	This contains what the company does its functioning and the types of products they sale/promote. It will also have the responsive navigation bar.
 
-- 3. Product.html, Product.css
+3. Product.html, Product.css
 	This part of the code contains a showcase for all the products which they sale.
 
-- 4. Contact.html, Contact.css and Contact.js
+4. Contact.html, Contact.css and Contact.js
 	This part contains small-small visiting cards with name, profile pic and their designation in the company on the front side and by the click of the mouse you can flip the card to its back-side which contains the contact information of that person.
+
+I hope this series of responsive website helps you in creating your website or helped you in any other manner. ??
