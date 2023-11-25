@@ -1,5 +1,7 @@
 # Flipcard Clone
 
+I have created a Flipcard Clone as a project.
+
 # Home Page
 ![image](https://github.com/FluKM/HTML/assets/121596131/f4688877-c323-4ff8-8fd9-3a5248605e16)
 
