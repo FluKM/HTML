@@ -16,3 +16,17 @@ It Contains
 	- A small contacts page with employees from different dept.
 
 # Home Page
+![image](https://github.com/FluKM/HTML/assets/121596131/e5ee65ab-4c9e-4dcc-9edd-a1a34c96361f)
+
+# About Page
+![image](https://github.com/FluKM/HTML/assets/121596131/71f78d87-9868-4775-9914-b09a68f4e186)
+
+# Products Page
+![image](https://github.com/FluKM/HTML/assets/121596131/721475aa-b3e3-48c0-be99-e0376aff971a)
+
+# Contacts Page
+![image](https://github.com/FluKM/HTML/assets/121596131/f8eb7e1b-6186-4ae0-b822-0eac41641d51)
+
+
+
+
