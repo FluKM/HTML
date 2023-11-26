@@ -3,6 +3,9 @@
 ## Project Overview
 Created a E-commerce website with pure HTML & Css.
 
+## Project tutorial
+	-https://youtu.be/-zOISKtGN4U?si=YXahOv6u3YBMC6Pf
+
 It Contains
 1.  Main page
 	- Showcaseing the company
